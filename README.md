@@ -5,4 +5,5 @@ I am a proactive Python Programmer in Year 2, dedicated to mastering full-stack 
 CONTACT ME 
 
 email : leilasono1@gmail.com
+
 phone : 081 661 7056
