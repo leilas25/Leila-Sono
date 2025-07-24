@@ -7,3 +7,17 @@ CONTACT ME
 email : leilasono1@gmail.com
 
 phone : 081 661 7056
+
+### 🖼️ Featured Project: Avengers Image Gallery
+
+A foundational web project showcasing a responsive image gallery for Marvel's Avengers. This project solidified my skills in core **HTML5** for structured content and 
+
+**CSS** for styling and layout, including linking multiple static pages. It demonstrates my ability to build clean, navigable user interfaces.
+
+* **Technologies:** HTML5, CSS3
+  
+* **Code:** [Explore the Repository](https://github.com/leilas25/Avengers-game)
+  
+* **Live Demo:** [See it in Action!](https://leilas25.github.io/Avengers-game/)
+
+---
