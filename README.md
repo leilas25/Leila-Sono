@@ -18,6 +18,6 @@ A foundational web project showcasing a responsive image gallery for Marvel's Av
   
 * **Code:** [Explore the Repository](https://github.com/leilas25/Avengers-game)
   
-* **Live Demo:** [See it in Action!](https://leilas25.github.io/Avengers-game/)
+* **Live Demo:** [See it in Action!](https://leilas25.github.io/Avengers-gallery/)
 
 ---
