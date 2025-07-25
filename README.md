@@ -33,3 +33,14 @@ A multi-page static website designed to provide essential information about the 
 * **Live Demo:** [Visit the Zoo!](https://leilas25.github.io/Pine-City-Zoo-/)
 
 ---
+### ⚽ Featured Project: Football Tactics Board (Pygame) 🥅
+
+An interactive desktop application built with **Python** and **Pygame**, designed to help users visualize and plan football strategies. It features draggable player icons on a pitch background, demonstrating my understanding of GUI development, event handling, and object-oriented programming principles.
+
+* **Technologies:** Python, Pygame
+  
+* **Code:** [Explore the Repository](https://github.com/leilas25/Football-Tactics-Board)
+  
+* *(Note: This is a desktop application. Please refer to the project repository's README for screenshots and setup instructions to run it locally.)*
+
+---
