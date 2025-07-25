@@ -21,3 +21,15 @@ A foundational web project showcasing a responsive image gallery for Marvel's Av
 * **Live Demo:** [See it in Action!](https://leilas25.github.io/Avengers-gallery/)
 
 ---
+
+### 🐒 Featured Project: Pine City Zoo Website 🐘
+
+A multi-page static website designed to provide essential information about the Pine City Zoo. This project allowed me to reinforce my understanding of fundamental **HTML5** for structured content across multiple pages and **CSS3** for layout, styling, and consistent navigation. It demonstrates my ability to create a clear and user-friendly informational site.
+
+* **Technologies:** HTML5, CSS3
+  
+* **Code:** [Explore the Repository](https://github.com/leilas25/Pine-City-Zoo-)
+  
+* **Live Demo:** [Visit the Zoo!](https://leilas25.github.io/Pine-City-Zoo-/)
+
+---
