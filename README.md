@@ -6,8 +6,6 @@ CONTACT ME
 
 email : leilasono1@gmail.com
 
-phone : 081 661 7056
-
 ### 🖼️ Featured Project: Avengers Image Gallery
 
 A foundational web project showcasing a responsive image gallery for Marvel's Avengers. This project solidified my skills in core **HTML5** for structured content and 
